@@ -13,3 +13,5 @@ Resources to learn python
 
 Python syntaxes for buil-int functions:
 1. print()- print(object*, sep=' ', end='\n', file=sys.stdout, flush = False)-> return value= None
+2. sorted()- sorted(iterable, key=None, reverse= False)-> returns a sorted iterable object.
+3. sort()- only for lists - makes changes to the list itself (main diff from sorted())
