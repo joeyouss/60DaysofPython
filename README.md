@@ -9,3 +9,7 @@ These projects are not at very beginner level and you might want to learn some o
 Resources to learn python
 1. https://www.w3schools.com
 2. Google IT automation - Coursera
+
+
+Python syntaxes for buil-int functions:
+1. print()- print(object*, sep=' ', end='\n', file=sys.stdout, flush = False)-> return value= None
